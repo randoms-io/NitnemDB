@@ -1,7 +1,7 @@
 <p align="center"> <img width="286px" height="auto" src="https://github.com/randomsdeveloper/NitnemDB/blob/master/nitnemdb-repo-logo.png"> </p>
 
 # NitnemDB
-Open source database for **Gurbani Nitnem** or **Sundar Gutka** projects
+Open source database for **Gurbani Nitnem** and **Sundar Gutka** projects
 
 ## Features
 - Separate tables for Index and Gurbanis
@@ -9,13 +9,13 @@ Open source database for **Gurbani Nitnem** or **Sundar Gutka** projects
 - Covers 100+ Gurbanis
 - Available in following formats
   + Realm database
-  + Sqlite database
+  + SQLite database
   + JSON
 - Multiple language support such as
-  + Gurmukhi - Non Unicode
+  + Gurmukhi - Non-Unicode
   + Gurmukhi - Unicode
   + English
-  + Punjabi - Non Unicode
+  + Punjabi - Non-Unicode
   + Punjabi - Unicode
   + Hindi - Unicode
   + Spanish
@@ -27,18 +27,21 @@ Beside iOS and Android, realm can be used with Node.js, React Native and Xamarin
 
 <p align="center"> <img width="676px" height="auto" src="https://github.com/randomsdeveloper/NitnemDB/blob/master/nitnemDB-realm-list.png"> </p>
 
-## Sqlite Database
-SQLite is one of the most used stored database management system in the world. SQLite is _'de-facto'_ lightweight embedded and mobile database system and comes bundled with phones and most computers. With third party software like open source [DB Browser for SQLite](https://sqlitebrowser.org/), or paid alternatives like [TablePlus](https://tableplus.com/), sqlite files can be viewed and modified easily. 
+## SQLite Database
+SQLite is one of the most used stored-database management system in the world. SQLite is _'de-facto'_ lightweight embedded and mobile database system and comes bundled with phones and most computers. With third party software like open source [DB Browser for SQLite](https://sqlitebrowser.org/), or paid alternatives like [TablePlus](https://tableplus.com/), SQLite files can be viewed and modified easily. For more information, visit [here.](https://www.sqlite.org/index.html)
 
 <p align="center"> <img width="676px" height="auto" src="https://github.com/randomsdeveloper/NitnemDB/blob/master/nitnemDB-sqlite-bani.png"> </p>
 
 ## Schema
-NitnemDB follows a simple approach to save only the most useful data and leave the rest for developer to explore and create. Schema for this database is followed same in both realm and sqlite. It gives an insight into the number of fields available and their data types. Schema shown below is for SQLite version, but is exactly the same in Realm.
+NitnemDB follows a simple approach to save only the most useful data and leave the rest for developer to explore or create. Schema for this database is followed same in both realm and SQLite. It gives an insight into the number of fields available and their data types. Schema shown below is for SQLite version, but is exactly the same in Realm.
 
 <p align="center"> <img width="676px" height="auto" src="https://github.com/randomsdeveloper/NitnemDB/blob/master/nitnemDB-sqlite-schema.png"> </p>
 
 ## JSON
-JSON format files are also available for easy access as an api request or for creation of other kind of database systems such as MySQL, Mongo, PostgreSQL or pretty much any type. These files are available under two categories, List.json and Banis.json
+JSON format files are also available for easy access as an api request or for creation of other kind of database systems such as MySQL, Maria, Mongo, PostgreSQL or almost any type. These files are available under two categories, List.json (contains indices or indexes) and Banis.json (contains Gurbanis).
+
+## Fonts
+To work with Gurmukhi and Punjabi written in Non-Unicode fonts, system must have **GurbaniAkhar**/**AnmolLipi** or any other compatible fonts with key bindings similar to these two installed for compatibility. For Unicode data, any compatible font with Punjabi and Hindi Unicode support is sufficient.
 
 ## License
 Contents of this repository are published under GNU General Public License version 2.0. You may copy and distribute verbatim copies of the Program's source code as you receive it.
