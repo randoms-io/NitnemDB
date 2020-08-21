@@ -1,0 +1,730 @@
+[
+	{
+		"id": 1,
+		"gurmukhi": "jpujI swihb",
+		"gurmukhiUni": "ਜਪੁਜੀ ਸਾਹਿਬ",
+		"english": "Japji Sahib",
+		"hindiUni": "जपुजी साहिब"
+	},
+	{
+		"id": 2,
+		"gurmukhi": "Sbd hzwry",
+		"gurmukhiUni": "ਸ਼ਬਦ ਹਜ਼ਾਰੇ",
+		"english": "Shabad Hazaarey",
+		"hindiUni": "शबद हज़ारे"
+	},
+	{
+		"id": 3,
+		"gurmukhi": "jwpu swihb",
+		"gurmukhiUni": "ਜਾਪੁ ਸਾਹਿਬ",
+		"english": "Jaap Sahib",
+		"hindiUni": "जापु साहिब"
+	},
+	{
+		"id": 4,
+		"gurmukhi": "Sbd hzwry pwiqSwhI 10",
+		"gurmukhiUni": "ਸ਼ਬਦ ਹਜ਼ਾਰੇ ਪਾਤਿਸ਼ਾਹੀ ੧੦",
+		"english": "Shabad Hazaarey Paatshaahi 10",
+		"hindiUni": "शबद हज़ारे पातिशाही १०"
+	},
+	{
+		"id": 5,
+		"gurmukhi": "qÍ pRswid sv`Xy (sRwvg su`D)",
+		"gurmukhiUni": "ਤ੍ਵ ਪ੍ਰਸਾਦਿ ਸਵੱਯੇ (ਸ੍ਰਾਵਗ ਸੁੱਧ)",
+		"english": "Tav Prasad Savaiye (Srawag Suddh)",
+		"hindiUni": "त्व प्रसादि सवय्ये (स्रावग सुद्ध)"
+	},
+	{
+		"id": 6,
+		"gurmukhi": "qÍ pRswid sv`Xy (dInn kI)",
+		"gurmukhiUni": "ਤ੍ਵ ਪ੍ਰਸਾਦਿ ਸਵੱਯੇ (ਦੀਨਨ ਕੀ)",
+		"english": "Tav Prasad Savaiye (Deenan Ki)",
+		"hindiUni": "त्व प्रसादि सवय्ये (दीनन की)"
+	},
+	{
+		"id": 7,
+		"gurmukhi": "Akwl ausqq cOpeI",
+		"gurmukhiUni": "ਅਕਾਲ ਉਸਤਤ ਚੌਪਈ",
+		"english": "Akaal Ustat Chaupai",
+		"hindiUni": "अकाल उसतत चौपई"
+	},
+	{
+		"id": 8,
+		"gurmukhi": "bynqI cOpeI swihb",
+		"gurmukhiUni": "ਬੇਨਤੀ ਚੌਪਈ ਸਾਹਿਬ",
+		"english": "Beynti Chaupai",
+		"hindiUni": "बेनती चौपई साहिब"
+	},
+	{
+		"id": 9,
+		"gurmukhi": "Anµdu swihb",
+		"gurmukhiUni": "ਅਨੰਦੁ ਸਾਹਿਬ",
+		"english": "Anand Sahib",
+		"hindiUni": "अनंदु साहिब"
+	},
+	{
+		"id": 10,
+		"gurmukhi": "lwvW",
+		"gurmukhiUni": "ਲਾਵਾਂ",
+		"english": "Laavan",
+		"hindiUni": "लावाँ"
+	},
+	{
+		"id": 11,
+		"gurmukhi": "AQ cMfIcirqR",
+		"gurmukhiUni": "ਅਥ ਚੰਡੀਚਰਿਤ੍ਰ",
+		"english": "Ath Chandichritar",
+		"hindiUni": "अथ चंडीचरित्र"
+	},
+	{
+		"id": 12,
+		"gurmukhi": "cMfI dI vwr",
+		"gurmukhiUni": "ਚੰਡੀ ਦੀ ਵਾਰ",
+		"english": "Chandi Di Vaar",
+		"hindiUni": "चंडी दी वार"
+	},
+	{
+		"id": 13,
+		"gurmukhi": "kucjI",
+		"gurmukhiUni": "ਕੁਚਜੀ",
+		"english": "Kuchji",
+		"hindiUni": "कुचजी"
+	},
+	{
+		"id": 14,
+		"gurmukhi": "sucjI",
+		"gurmukhiUni": "ਸੁਚਜੀ",
+		"english": "Suchji",
+		"hindiUni": "सुचजी"
+	},
+	{
+		"id": 15,
+		"gurmukhi": "guxvMqI",
+		"gurmukhiUni": "ਗੁਣਵੰਤੀ",
+		"english": "Gunnvanti",
+		"hindiUni": "गुणवंती"
+	},
+	{
+		"id": 16,
+		"gurmukhi": "Punhy mhlw 5",
+		"gurmukhiUni": "ਫੁਨਹੇ ਮਹਲਾ ੫",
+		"english": "Funhey Pehala 5",
+		"hindiUni": "फुनहे महला ५"
+	},
+	{
+		"id": 17,
+		"gurmukhi": "cauboly",
+		"gurmukhiUni": "ਚਉਬੋਲੇ",
+		"english": "Chaubole",
+		"hindiUni": "चउबोले"
+	},
+	{
+		"id": 18,
+		"gurmukhi": "SsqR nwm mwlw",
+		"gurmukhiUni": "ਸ਼ਸਤ੍ਰ ਨਾਮ ਮਾਲਾ",
+		"english": "Shastar Naam Maala",
+		"hindiUni": "शसत्र नाम माला"
+	},
+	{
+		"id": 19,
+		"gurmukhi": "rhrwis swihb",
+		"gurmukhiUni": "ਰਹਰਾਸਿ ਸਾਹਿਬ",
+		"english": "Rehraas Sahib",
+		"hindiUni": "रहरासि साहिब"
+	},
+	{
+		"id": 20,
+		"gurmukhi": "AwrqI",
+		"gurmukhiUni": "ਆਰਤੀ",
+		"english": "Aarti",
+		"hindiUni": "आरती"
+	},
+	{
+		"id": 21,
+		"gurmukhi": "soihlw swihb",
+		"gurmukhiUni": "ਸੋਹਿਲਾ ਸਾਹਿਬ",
+		"english": "Sohila Sahib",
+		"hindiUni": "सोहिला साहिब"
+	},
+	{
+		"id": 22,
+		"gurmukhi": "Ardws",
+		"gurmukhiUni": "ਅਰਦਾਸ",
+		"english": "Ardaas",
+		"hindiUni": "अरदास"
+	},
+	{
+		"id": 23,
+		"gurmukhi": "sRI BgauqI AsqoqR (pMQ pRkwS)",
+		"gurmukhiUni": "ਸ੍ਰੀ ਭਗਉਤੀ ਅਸਤੋਤ੍ਰ (ਪੰਥ ਪ੍ਰਕਾਸ਼)",
+		"english": "Sri Bhagauti Astotar (Panth Parkash)",
+		"hindiUni": "स्री भगउती असतोत्र (पंथ प्रकाश)"
+	},
+	{
+		"id": 24,
+		"gurmukhi": "sRI BgauqI AsqoqR (sRI hzUr swihb)",
+		"gurmukhiUni": "ਸ੍ਰੀ ਭਗਉਤੀ ਅਸਤੋਤ੍ਰ (ਸ੍ਰੀ ਹਜ਼ੂਰ ਸਾਹਿਬ)",
+		"english": "Sri Bhagauti Astotar (Sri Hazoor Sahib)",
+		"hindiUni": "स्री भगउती असतोत्र (स्री हज़ूर साहिब)"
+	},
+	{
+		"id": 25,
+		"gurmukhi": "bwrh mwhw mWJ",
+		"gurmukhiUni": "ਬਾਰਹ ਮਾਹਾ ਮਾਂਝ",
+		"english": "Baarah Maaha Maanjh",
+		"hindiUni": "बारह माहा माँझ"
+	},
+	{
+		"id": 26,
+		"gurmukhi": "bwrh mwhw svYXw",
+		"gurmukhiUni": "ਬਾਰਹ ਮਾਹਾ ਸਵੈਯਾ",
+		"english": "Baarah Maaha Savaiya",
+		"hindiUni": "बारह माहा सवैया"
+	},
+	{
+		"id": 27,
+		"gurmukhi": "Akwl ausqq",
+		"gurmukhiUni": "ਅਕਾਲ ਉਸਤਤ",
+		"english": "Akaal Ustat",
+		"hindiUni": "अकाल उसतत"
+	},
+	{
+		"id": 28,
+		"gurmukhi": "slok mhlw 9",
+		"gurmukhiUni": "ਸਲੋਕ ਮਹਲਾ ੯",
+		"english": "Salok Mehala 9",
+		"hindiUni": "सलोक महला ९"
+	},
+	{
+		"id": 29,
+		"gurmukhi": "suKmnI swihb",
+		"gurmukhiUni": "ਸੁਖਮਨੀ ਸਾਹਿਬ",
+		"english": "Sukhmani Sahib",
+		"hindiUni": "सुखमनी साहिब"
+	},
+	{
+		"id": 30,
+		"gurmukhi": "suKmnw swihb",
+		"gurmukhiUni": "ਸੁਖਮਨਾ ਸਾਹਿਬ",
+		"english": "Sukhmana Sahib",
+		"hindiUni": "सुखमना साहिब"
+	},
+	{
+		"id": 31,
+		"gurmukhi": "bwvn AKrI",
+		"gurmukhiUni": "ਬਾਵਨ ਅਖਰੀ",
+		"english": "Baavan Akhree",
+		"hindiUni": "बावन अखरी"
+	},
+	{
+		"id": 32,
+		"gurmukhi": "isD gosit",
+		"gurmukhiUni": "ਸਿਧ ਗੋਸਟਿ",
+		"english": "Siddh Gosat",
+		"hindiUni": "सिध गोसटि"
+	},
+	{
+		"id": 33,
+		"gurmukhi": "dKxI EAMkwru",
+		"gurmukhiUni": "ਦਖਣੀ ਓਅੰਕਾਰੁ",
+		"english": "Dakhnee Oankaar",
+		"hindiUni": "दखणी ओअंकारु"
+	},
+	{
+		"id": 34,
+		"gurmukhi": "duK BMjnI swihb",
+		"gurmukhiUni": "ਦੁਖ ਭੰਜਨੀ ਸਾਹਿਬ",
+		"english": "Dukh Bhanjani Sahib",
+		"hindiUni": "दुख भंजनी साहिब"
+	},
+	{
+		"id": 35,
+		"gurmukhi": "bwvn AKrI kbIr jIau kI",
+		"gurmukhiUni": "ਬਾਵਨ ਅਖਰੀ ਕਬੀਰ ਜੀਉ ਕੀ",
+		"english": "Baavan Akharee Kabir Jio Ki",
+		"hindiUni": "बावन अखरी कबीर जीउ की"
+	},
+	{
+		"id": 36,
+		"gurmukhi": "GoVIAw",
+		"gurmukhiUni": "ਘੋੜੀਆ",
+		"english": "Ghodiaan",
+		"hindiUni": "घोड़ीआ"
+	},
+	{
+		"id": 37,
+		"gurmukhi": "krhly",
+		"gurmukhiUni": "ਕਰਹਲੇ",
+		"english": "Karhaley",
+		"hindiUni": "करहले"
+	},
+	{
+		"id": 38,
+		"gurmukhi": "ibrhVy",
+		"gurmukhiUni": "ਬਿਰਹੜੇ",
+		"english": "Birharhey",
+		"hindiUni": "बिरहड़े"
+	},
+	{
+		"id": 39,
+		"gurmukhi": "ptI ilKI",
+		"gurmukhiUni": "ਪਟੀ ਲਿਖੀ",
+		"english": "Patee Likhee",
+		"hindiUni": "पटी लिखी"
+	},
+	{
+		"id": 40,
+		"gurmukhi": "ptI mhlw 3",
+		"gurmukhiUni": "ਪਟੀ ਮਹਲਾ ੩",
+		"english": "Patee Mehala 3",
+		"hindiUni": "पटी महला ३"
+	},
+	{
+		"id": 41,
+		"gurmukhi": "mhlw 5 ruqI",
+		"gurmukhiUni": "ਮਹਲਾ ੫ ਰੁਤੀ",
+		"english": "Mehala 5 Rutee",
+		"hindiUni": "महला ५ रुती"
+	},
+	{
+		"id": 42,
+		"gurmukhi": "rwmklI sdu",
+		"gurmukhiUni": "ਰਾਮਕਲੀ ਸਦੁ",
+		"english": "Raamkali Saddh",
+		"hindiUni": "रामकली सदु"
+	},
+	{
+		"id": 43,
+		"gurmukhi": "iQqMØI kbIr jI kMØI",
+		"gurmukhiUni": "ਥਿਤੰੀ ਕਬੀਰ ਜੀ ਕੰੀ",
+		"english": "Thiteen Kabir Ji Keen",
+		"hindiUni": "थितीं कबीर जी कीं"
+	},
+	{
+		"id": 44,
+		"gurmukhi": "iQqI mhlw 1",
+		"gurmukhiUni": "ਥਿਤੀ ਮਹਲਾ ੧",
+		"english": "Thitee Mehala 1",
+		"hindiUni": "थिती महला १"
+	},
+	{
+		"id": 45,
+		"gurmukhi": "iQqI mhlw 5",
+		"gurmukhiUni": "ਥਿਤੀ ਮਹਲਾ ੫",
+		"english": "Thitee Mehala 5",
+		"hindiUni": "थिती महला ५"
+	},
+	{
+		"id": 46,
+		"gurmukhi": "gauVI vwr kbIr jIau ky",
+		"gurmukhiUni": "ਗਉੜੀ ਵਾਰ ਕਬੀਰ ਜੀਉ ਕੇ",
+		"english": "Gaudi Vaar Kabir Jio Ke",
+		"hindiUni": "गउड़ी वार कबीर जीउ के"
+	},
+	{
+		"id": 47,
+		"gurmukhi": "iblwvlu mhlw 3 vwr sq",
+		"gurmukhiUni": "ਬਿਲਾਵਲੁ ਮਹਲਾ ੩ ਵਾਰ ਸਤ",
+		"english": "Bilaawal Mehala 3 Vaar Sat",
+		"hindiUni": "बिलावलु महला ३ वार सत"
+	},
+	{
+		"id": 48,
+		"gurmukhi": "vxjwrw",
+		"gurmukhiUni": "ਵਣਜਾਰਾ",
+		"english": "Vanjaara",
+		"hindiUni": "वणजारा"
+	},
+	{
+		"id": 49,
+		"gurmukhi": "augRdMqI",
+		"gurmukhiUni": "ਉਗ੍ਰਦੰਤੀ",
+		"english": "Ugardanti",
+		"hindiUni": "उग्रदंती"
+	},
+	{
+		"id": 50,
+		"gurmukhi": "rwgu isrIrwgu (kbIr jIau kw)",
+		"gurmukhiUni": "ਰਾਗੁ ਸਿਰੀਰਾਗੁ (ਕਬੀਰ ਜੀਉ ਕਾ)",
+		"english": "Raag Sireeraag (Kabir Jio Kaa)",
+		"hindiUni": "रागु सिरीरागु (कबीर जीउ का)"
+	},
+	{
+		"id": 51,
+		"gurmukhi": "rwgu gauVI",
+		"gurmukhiUni": "ਰਾਗੁ ਗਉੜੀ",
+		"english": "Raag Gaudi",
+		"hindiUni": "रागु गउड़ी"
+	},
+	{
+		"id": 52,
+		"gurmukhi": "rwgu Awsw",
+		"gurmukhiUni": "ਰਾਗੁ ਆਸਾ",
+		"english": "Raag Aasa",
+		"hindiUni": "रागु आसा"
+	},
+	{
+		"id": 53,
+		"gurmukhi": "rwgu gUjrI",
+		"gurmukhiUni": "ਰਾਗੁ ਗੂਜਰੀ",
+		"english": "Raag Goojri",
+		"hindiUni": "रागु गूजरी"
+	},
+	{
+		"id": 54,
+		"gurmukhi": "rwgu soriT",
+		"gurmukhiUni": "ਰਾਗੁ ਸੋਰਠਿ",
+		"english": "Raag Sorath",
+		"hindiUni": "रागु सोरठि"
+	},
+	{
+		"id": 55,
+		"gurmukhi": "rwgu DnwsrI",
+		"gurmukhiUni": "ਰਾਗੁ ਧਨਾਸਰੀ",
+		"english": "Raag Dhanaasari",
+		"hindiUni": "रागु धनासरी"
+	},
+	{
+		"id": 56,
+		"gurmukhi": "rwgu jYqsrI",
+		"gurmukhiUni": "ਰਾਗੁ ਜੈਤਸਰੀ",
+		"english": "Raag Jaitsari",
+		"hindiUni": "रागु जैतसरी"
+	},
+	{
+		"id": 57,
+		"gurmukhi": "rwgu tofI (bwxI BgqW kI)",
+		"gurmukhiUni": "ਰਾਗੁ ਟੋਡੀ (ਬਾਣੀ ਭਗਤਾਂ ਕੀ)",
+		"english": "Raag Todhi (Baani Bhagtaan Ki)",
+		"hindiUni": "रागु टोडी (बाणी भगताँ की)"
+	},
+	{
+		"id": 58,
+		"gurmukhi": "rwgu iqlMg (bwxI Bgqw kI kbIr jI)",
+		"gurmukhiUni": "ਰਾਗੁ ਤਿਲੰਗ (ਬਾਣੀ ਭਗਤਾ ਕੀ ਕਬੀਰ ਜੀ)",
+		"english": "Raag Tilang (Baani Bhagtaa Ki Kabir Ji)",
+		"hindiUni": "रागु तिलंग (बाणी भगता की कबीर जी)"
+	},
+	{
+		"id": 59,
+		"gurmukhi": "rwgu sUhI",
+		"gurmukhiUni": "ਰਾਗੁ ਸੂਹੀ",
+		"english": "Raag Soohi",
+		"hindiUni": "रागु सूही"
+	},
+	{
+		"id": 60,
+		"gurmukhi": "rwgu iblwvlu",
+		"gurmukhiUni": "ਰਾਗੁ ਬਿਲਾਵਲੁ",
+		"english": "Raag Bilaawal",
+		"hindiUni": "रागु बिलावलु"
+	},
+	{
+		"id": 61,
+		"gurmukhi": "rwgu goNf",
+		"gurmukhiUni": "ਰਾਗੁ ਗੋਂਡ",
+		"english": "Raag Gond",
+		"hindiUni": "रागु गोंड"
+	},
+	{
+		"id": 62,
+		"gurmukhi": "rwgu rwmklI (sdu)",
+		"gurmukhiUni": "ਰਾਗੁ ਰਾਮਕਲੀ (ਸਦੁ)",
+		"english": "Raag Raamkali (Saddh)",
+		"hindiUni": "रागु रामकली (सदु)"
+	},
+	{
+		"id": 63,
+		"gurmukhi": "rwgu mwlI gauVw",
+		"gurmukhiUni": "ਰਾਗੁ ਮਾਲੀ ਗਉੜਾ",
+		"english": "Raag Maali Gauda",
+		"hindiUni": "रागु माली गउड़ा"
+	},
+	{
+		"id": 64,
+		"gurmukhi": "rwgu mwrU",
+		"gurmukhiUni": "ਰਾਗੁ ਮਾਰੂ",
+		"english": "Raag Maaroo",
+		"hindiUni": "रागु मारू"
+	},
+	{
+		"id": 65,
+		"gurmukhi": "rwgu kydwrw",
+		"gurmukhiUni": "ਰਾਗੁ ਕੇਦਾਰਾ",
+		"english": "Raag Kedaara",
+		"hindiUni": "रागु केदारा"
+	},
+	{
+		"id": 66,
+		"gurmukhi": "rwgu BYrau",
+		"gurmukhiUni": "ਰਾਗੁ ਭੈਰਉ",
+		"english": "Raag Bhairao",
+		"hindiUni": "रागु भैरउ"
+	},
+	{
+		"id": 67,
+		"gurmukhi": "rwgu bsMqu",
+		"gurmukhiUni": "ਰਾਗੁ ਬਸੰਤੁ",
+		"english": "Raag Basant",
+		"hindiUni": "रागु बसंतु"
+	},
+	{
+		"id": 68,
+		"gurmukhi": "rwgu swrMg",
+		"gurmukhiUni": "ਰਾਗੁ ਸਾਰੰਗ",
+		"english": "Raag Saarang",
+		"hindiUni": "रागु सारंग"
+	},
+	{
+		"id": 69,
+		"gurmukhi": "rwgu mlwr",
+		"gurmukhiUni": "ਰਾਗੁ ਮਲਾਰ",
+		"english": "Raag Malaar",
+		"hindiUni": "रागु मलार"
+	},
+	{
+		"id": 70,
+		"gurmukhi": "rwgu kwnVw",
+		"gurmukhiUni": "ਰਾਗੁ ਕਾਨੜਾ",
+		"english": "Raag Kaanadaa",
+		"hindiUni": "रागु कानड़ा"
+	},
+	{
+		"id": 71,
+		"gurmukhi": "rwgu pRBwqI",
+		"gurmukhiUni": "ਰਾਗੁ ਪ੍ਰਭਾਤੀ",
+		"english": "Raag Prabhaati",
+		"hindiUni": "रागु प्रभाती"
+	},
+	{
+		"id": 72,
+		"gurmukhi": "slok Bgq kbIr jIau ky",
+		"gurmukhiUni": "ਸਲੋਕ ਭਗਤ ਕਬੀਰ ਜੀਉ ਕੇ",
+		"english": "Salok Bhagat Kabir Jio Ke",
+		"hindiUni": "सलोक भगत कबीर जीउ के"
+	},
+	{
+		"id": 73,
+		"gurmukhi": "slok syK PrId ky",
+		"gurmukhiUni": "ਸਲੋਕ ਸੇਖ ਫਰੀਦ ਕੇ",
+		"english": "Salok Seikh Fareed Ke",
+		"hindiUni": "सलोक सेख फरीद के"
+	},
+	{
+		"id": 74,
+		"gurmukhi": "svXy sRI muKbwk´ mhlw 5 - 1",
+		"gurmukhiUni": "ਸਵਯੇ ਸ੍ਰੀ ਮੁਖਬਾਕੵ ਮਹਲਾ ੫ - ੧",
+		"english": "Savaiye Sri Mukhbaak Mehala 5-1",
+		"hindiUni": "सवये स्री मुखबाक्य महला ५ - १"
+	},
+	{
+		"id": 75,
+		"gurmukhi": "svXy sRI muKbwk´ mhlw 5 - 2",
+		"gurmukhiUni": "ਸਵਯੇ ਸ੍ਰੀ ਮੁਖਬਾਕੵ ਮਹਲਾ ੫ - ੨",
+		"english": "Savaiye Sri Mukhbaak Mehala 5-2",
+		"hindiUni": "सवये स्री मुखबाक्य महला ५ - २"
+	},
+	{
+		"id": 76,
+		"gurmukhi": "sveIey mhly pihly ky",
+		"gurmukhiUni": "ਸਵਈਏ ਮਹਲੇ ਪਹਿਲੇ ਕੇ",
+		"english": "Savaiye Mehale Pehley Ke",
+		"hindiUni": "सवईए महले पहिले के"
+	},
+	{
+		"id": 77,
+		"gurmukhi": "sveIey mhly dUjy ky",
+		"gurmukhiUni": "ਸਵਈਏ ਮਹਲੇ ਦੂਜੇ ਕੇ",
+		"english": "Savaiye Mehale Doojey Ke",
+		"hindiUni": "सवईए महले दूजे के"
+	},
+	{
+		"id": 78,
+		"gurmukhi": "sveIey mhly qIjy ky",
+		"gurmukhiUni": "ਸਵਈਏ ਮਹਲੇ ਤੀਜੇ ਕੇ",
+		"english": "Savaiye Mehale Teejey Ke",
+		"hindiUni": "सवईए महले तीजे के"
+	},
+	{
+		"id": 79,
+		"gurmukhi": "sveIey mhly cauQy ky",
+		"gurmukhiUni": "ਸਵਈਏ ਮਹਲੇ ਚਉਥੇ ਕੇ",
+		"english": "Savaiye Mehale Chauthey Ke",
+		"hindiUni": "सवईए महले चउथे के"
+	},
+	{
+		"id": 80,
+		"gurmukhi": "sveIey mhly pMjvy ky",
+		"gurmukhiUni": "ਸਵਈਏ ਮਹਲੇ ਪੰਜਵੇ ਕੇ",
+		"english": "Savaiye Mehale Panjvey Ke",
+		"hindiUni": "सवईए महले पंजवे के"
+	},
+	{
+		"id": 81,
+		"gurmukhi": "isrIrwg kI vwr mhlw 4",
+		"gurmukhiUni": "ਸਿਰੀਰਾਗ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
+		"english": "SireeraagKi Vaar Mehala 4",
+		"hindiUni": "सिरीराग की वार महला ४"
+	},
+	{
+		"id": 82,
+		"gurmukhi": "vwr mwJ kI",
+		"gurmukhiUni": "ਵਾਰ ਮਾਝ ਕੀ",
+		"english": "Vaar Maajh Ki",
+		"hindiUni": "वार माझ की"
+	},
+	{
+		"id": 83,
+		"gurmukhi": "gauVI kI vwr mhlw 4",
+		"gurmukhiUni": "ਗਉੜੀ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
+		"english": "Gaudi Ki Vaar Mehala 4",
+		"hindiUni": "गउड़ी की वार महला ४"
+	},
+	{
+		"id": 84,
+		"gurmukhi": "gauVI kI vwr mhlw 5",
+		"gurmukhiUni": "ਗਉੜੀ ਕੀ ਵਾਰ ਮਹਲਾ ੫",
+		"english": "Gaudi Ki Vaar Mehala 5",
+		"hindiUni": "गउड़ी की वार महला ५"
+	},
+	{
+		"id": 85,
+		"gurmukhi": "Awsw dI vwr",
+		"gurmukhiUni": "ਆਸਾ ਦੀ ਵਾਰ",
+		"english": "Aasa Di Vaar",
+		"hindiUni": "आसा दी वार"
+	},
+	{
+		"id": 86,
+		"gurmukhi": "gUjrI kI vwr mhlw 3",
+		"gurmukhiUni": "ਗੂਜਰੀ ਕੀ ਵਾਰ ਮਹਲਾ ੩",
+		"english": "Goojri Ki Vaar Mehala 3",
+		"hindiUni": "गूजरी की वार महला ३"
+	},
+	{
+		"id": 87,
+		"gurmukhi": "rwgu gUjrI vwr mhlw 5",
+		"gurmukhiUni": "ਰਾਗੁ ਗੂਜਰੀ ਵਾਰ ਮਹਲਾ ੫",
+		"english": "Raag Goojri Vaar Mehala 5",
+		"hindiUni": "रागु गूजरी वार महला ५"
+	},
+	{
+		"id": 88,
+		"gurmukhi": "ibhwgVy kI vwr mhlw 4",
+		"gurmukhiUni": "ਬਿਹਾਗੜੇ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
+		"english": "Bihaagrhey Ki Vaar Mehala 4",
+		"hindiUni": "बिहागड़े की वार महला ४"
+	},
+	{
+		"id": 89,
+		"gurmukhi": "vfhMs kI vwr mhlw 4",
+		"gurmukhiUni": "ਵਡਹੰਸ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
+		"english": "Vadhans Ki Vaar Mehala 4",
+		"hindiUni": "वडहंस की वार महला ४"
+	},
+	{
+		"id": 90,
+		"gurmukhi": "rwgu soriT vwr mhly 4 kI",
+		"gurmukhiUni": "ਰਾਗੁ ਸੋਰਠਿ ਵਾਰ ਮਹਲੇ ੪ ਕੀ",
+		"english": "Raag Sorath Vaar Mehale 4 Ki",
+		"hindiUni": "रागु सोरठि वार महले ४ की"
+	},
+	{
+		"id": 91,
+		"gurmukhi": "jYqsrI kI vwr",
+		"gurmukhiUni": "ਜੈਤਸਰੀ ਕੀ ਵਾਰ",
+		"english": "Jaitsari Ki Vaar",
+		"hindiUni": "जैतसरी की वार"
+	},
+	{
+		"id": 92,
+		"gurmukhi": "vwr sUhI kI",
+		"gurmukhiUni": "ਵਾਰ ਸੂਹੀ ਕੀ",
+		"english": "Vaar Soohi Ki",
+		"hindiUni": "वार सूही की"
+	},
+	{
+		"id": 93,
+		"gurmukhi": "iblwvlu kI vwr mhlw 4",
+		"gurmukhiUni": "ਬਿਲਾਵਲੁ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
+		"english": "Bilaawal Ki Vaar Mehala 4",
+		"hindiUni": "बिलावलु की वार महला ४"
+	},
+	{
+		"id": 94,
+		"gurmukhi": "rwmklI kI vwr mhlw 3",
+		"gurmukhiUni": "ਰਾਮਕਲੀ ਕੀ ਵਾਰ ਮਹਲਾ ੩",
+		"english": "Raamkali Ki Vaar Mehala 3",
+		"hindiUni": "रामकली की वार महला ३"
+	},
+	{
+		"id": 95,
+		"gurmukhi": "rwmklI kI vwr mhlw 5",
+		"gurmukhiUni": "ਰਾਮਕਲੀ ਕੀ ਵਾਰ ਮਹਲਾ ੫",
+		"english": "Raamkali Ki Vaar Mehala 5",
+		"hindiUni": "रामकली की वार महला ५"
+	},
+	{
+		"id": 96,
+		"gurmukhi": "rwmklI kI vwr (rwie blvMif qQw sqY)",
+		"gurmukhiUni": "ਰਾਮਕਲੀ ਕੀ ਵਾਰ (ਰਾਇ ਬਲਵੰਡਿ ਤਥਾ ਸਤੈ)",
+		"english": "Raamkali Ki Vaar (Rai Balwand Tatha Satai)",
+		"hindiUni": "रामकली की वार (राइ बलवंडि तथा सतै)"
+	},
+	{
+		"id": 97,
+		"gurmukhi": "mwrU vwr mhlw 3",
+		"gurmukhiUni": "ਮਾਰੂ ਵਾਰ ਮਹਲਾ ੩",
+		"english": "Maaroo Vaar Mehala 3",
+		"hindiUni": "मारू वार महला ३"
+	},
+	{
+		"id": 98,
+		"gurmukhi": "mwrU vwr mhlw 5 fKxy",
+		"gurmukhiUni": "ਮਾਰੂ ਵਾਰ ਮਹਲਾ ੫ ਡਖਣੇ",
+		"english": "Maaroo Vaar Mehala 5 Dakhney",
+		"hindiUni": "मारू वार महला ५ डखणे"
+	},
+	{
+		"id": 99,
+		"gurmukhi": "bsMq kI vwr",
+		"gurmukhiUni": "ਬਸੰਤ ਕੀ ਵਾਰ",
+		"english": "Basant Ki Vaar",
+		"hindiUni": "बसंत की वार"
+	},
+	{
+		"id": 100,
+		"gurmukhi": "swrMg kI vwr mhlw 4",
+		"gurmukhiUni": "ਸਾਰੰਗ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
+		"english": "Saarang Ki Vaar Mehala 4",
+		"hindiUni": "सारंग की वार महला ४"
+	},
+	{
+		"id": 101,
+		"gurmukhi": "vwr mlwr kI mhlw 1",
+		"gurmukhiUni": "ਵਾਰ ਮਲਾਰ ਕੀ ਮਹਲਾ ੧",
+		"english": "Vaar Malaar Ki Mehala 1",
+		"hindiUni": "वार मलार की महला १"
+	},
+	{
+		"id": 102,
+		"gurmukhi": "kwnVy kI vwr mhlw 4",
+		"gurmukhiUni": "ਕਾਨੜੇ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
+		"english": "Kaanadey Ki Vaar Mehala 4",
+		"hindiUni": "कानड़े की वार महला ४"
+	},
+	{
+		"id": 103,
+		"gurmukhi": "Anµdu swihb (6 pauVI)",
+		"gurmukhiUni": "ਅਨੰਦੁ ਸਾਹਿਬ (੬ ਪਉੜੀ)",
+		"english": "Anand Sahib (6 Paudi)",
+		"hindiUni": "अनंदु साहिब (६ पउड़ी)"
+	},
+	{
+		"id": 104,
+		"gurmukhi": "rwg mwlw",
+		"gurmukhiUni": "ਰਾਗ ਮਾਲਾ",
+		"english": "Raag Maala",
+		"hindiUni": "राग माला"
+	}
+]
